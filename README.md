@@ -1,8 +1,10 @@
-# Prediction-of-Alzheimers-disease-using-ML
-ABOUT ALZHEIMER'S DISEASE: Alzheimer's disease is a progressive disorder that causes brain cells degenerate and die. Alzheimer’s is an irreversible disease and it can slowly cause impairment in memory and cognitive function.
+Early detection of dementia and its type is hard to predict through the traditional approach. Machine Learning plays a crucial role in the field of neurodegenerative disorders as it helps to understand the underlying patterns and relations to provide the right care and support. Dementia is an emerging health issue in developing countries. An early and accurate diagnosis can contribute to more effective treatment. Various Machine Learning Algorithms i.e. Random Forest (RF), Support Vector Machine (SVM), Multi-layer Perceptron (MLP), and Naive Bayes (NB) were used.
 
-WHY DO WE NEED A PREDICTIVE MODEL? 
-It is a tedious job to diagnose this in its early stage and very expensive as we need a vast volume of data, prediction software and a highly skilled doctor. Present Alzheimer's disease(AD) diagnosis is primarily based on cognitive assessment and recording mental deterioration through a series of standardized assessments as well as subjective examination by the clinician. Hence we need a predictive model that ease the treatment.
+#WHY DO WE NEED A PREDICTIVE MODEL?
+
+The specialist must understand the pattern of lack of skill, history of the patient and cognitive functions of the brain to identify the cause of dementia. Predicting the exact cause of dementia based on its progression can take up to a year. Machine learning models can identify based on their history and helps in timely diagnosis.. ABOUT DATASET: Data were provided by OASIS [http://www.oasis-brains.org.]”
+
+
 
 ACKNOWLEDGEMENT:
 Data were provided by OASIS [http://www.oasis-brains.org.]”
